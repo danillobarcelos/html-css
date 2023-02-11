@@ -1,0 +1,17 @@
+
+
+h1 {
+    color: brown;
+    background-color: lightyellow;
+}
+h2 {
+    color:crimson;
+}
+p {
+    text-align: justify;
+}
+body {
+    background-color: lightgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
